@@ -1,0 +1,31 @@
+body {
+    background: cyan;
+    text-align: center;
+}
+
+#head1 {
+    color: blueviolet;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 2px;
+}
+
+#para1 {
+    color: darkred;
+    font-size: 30px;
+}
+
+#para2 {
+    color: darkred;
+    font-size: 30px;
+}
+
+#para3 {
+    color: darkred;
+    font-size: 30px;
+}
+
+#para4 {
+    color: darkred;
+    font-size: 30px;
+}
